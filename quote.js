@@ -23,6 +23,10 @@ const quotes = [
         quote: `"Believe you can and you're halfway there." `,
         person: ` Theodore Roosevelt`
     },
+    {
+        quote: `"Believe you can and you're halfway there." `,
+        person: ` Theodore Roosevelt`
+    },
 ]; 
 
 btn.addEventListener('click', function() {
